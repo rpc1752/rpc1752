@@ -83,7 +83,7 @@ Passionate MERN Stack Developer with **3 years of specialized experience at Wipr
   <img src="https://img.shields.io/badge/Wipro-341DAB?style=for-the-badge&logo=wipro&logoColor=white" alt="Wipro" />
 </div>
 
-### **Senior MERN Stack Developer** @ Wipro _(2022 - Present)_
+### **Senior MERN Stack Developer** @ Wipro _(May 2022 - April 2025)_
 
 <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZ3M3ZhOWVoaWxpenk5enhrZnNhZHVxcmI2cDYwd2ljY3FyYTl2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
